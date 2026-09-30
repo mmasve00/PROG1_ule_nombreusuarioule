@@ -17,3 +17,7 @@ Sempiterno: https://dle.rae.es/sempiterno
 Iridiscente: https://dle.rae.es/iridiscente
 
 Altruismo: https://dle.rae.es/altruismo
+
+Avión: https://dle.rae.es/avi%C3%B3n
+
+Serpiente: https://dle.rae.es/serpiente?m=form
